@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Education",
+            "description": "Videos focused on learning and knowledge sharing.",
+            "color": "#1E90FF"
+        },
+        {
+            "id": 2,
+            "name": "Entertainment",
+            "description": "Content designed to amuse and entertain the audience.",
+            "color": "#FF4500"
+        },
+        {
+            "id": 3,
+            "name": "Sports",
+            "description": "Videos related to sports events, highlights, and fitness.",
+            "color": "#32CD32"
+        },
+        {
+            "id": 4,
+            "name": "Music",
+            "description": "Music videos, performances, and audio tracks.",
+            "color": "#8A2BE2"
+        },
+        {
+            "id": 5,
+            "name": "Gaming",
+            "description": "Gameplay, tutorials, and video game-related content.",
+            "color": "#FF1493"
+        },
+        {
+            "id": 6,
+            "name": "Technology",
+            "description": "Videos on gadgets, software, and tech reviews.",
+            "color": "#00CED1"
+        },
+        {
+            "id": 7,
+            "name": "Travel",
+            "description": "Videos showcasing travel destinations and adventures.",
+            "color": "#FFD700"
+        },
+        {
+            "id": 8,
+            "name": "Cooking",
+            "description": "Recipes, cooking tutorials, and food-related content.",
+            "color": "#FF6347"
+        },
+        {
+            "id": 9,
+            "name": "Health & Fitness",
+            "description": "Content promoting physical and mental well-being.",
+            "color": "#3CB371"
+        },
+        {
+            "id": 10,
+            "name": "News",
+            "description": "Current events, news reports, and analysis.",
+            "color": "#808080"
+        },
+        {
+            "id": 11,
+            "name": "DIY & Crafts",
+            "description": "Do-it-yourself projects and creative crafts tutorials.",
+            "color": "#DA70D6"
+        },
+        {
+            "id": 12,
+            "name": "Comedy",
+            "description": "Humorous videos, skits, and stand-up comedy.",
+            "color": "#FFA500"
+        },
+        {
+            "id": 13,
+            "name": "Documentary",
+            "description": "Informative and factual content on various topics.",
+            "color": "#4682B4"
+        }
+    ]
+}
